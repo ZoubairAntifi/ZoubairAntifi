@@ -88,7 +88,7 @@
 <hr>
 
 
-## Contact me 🌻
+## Contact me 
 
 <br>
 <div align="center">
